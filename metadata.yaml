@@ -1,0 +1,38 @@
+_repo: A-Contribution-to-The-Critique-Of-The-Political-Economy_46423
+_version: 0.1.0
+alternative_title: Zur Kritik der politischen Ökonomie. English
+contributor:
+  translator:
+    agent_name: Stone, N. I. (Nahum Isaac)
+    alias: Stone, Nahum I. (Nahum Isaac)
+    birthdate: 1873
+    deathdate: 1966
+    gutenberg_agent_id: '43776'
+    url: http://www.gutenberg.org/2009/agents/43776
+covers:
+- cover_type: archival
+  image_path: 46423-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Marx, Karl
+    alias: Marx, Heinrich Karl
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '46'
+    url: http://www.gutenberg.org/2009/agents/46
+    wikipedia: http://en.wikipedia.org/wiki/Karl_Marx
+description: ''
+gutenberg_issued: '2014-07-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HB'
+- !lcsh 'Marxian economics'
+- !lcsh 'Economics'
+title: A Contribution to the Critique of Political Economy
+url: http://www.gutenberg.org/ebooks/46423
